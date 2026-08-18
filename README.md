@@ -1,51 +1,71 @@
 # ZuiMeiTV · 最美TV
 
+**Creator discovery, public influence insight and media intelligence built around transparent public information.**
+
+This public repository is a **brand and commercial showcase only**. It contains no production source code, ranking algorithm, scoring formula, data pipeline, crawler implementation, private APIs, account credentials, deployment details or confidential analytics logic.
+
 ## English
 
-**Creator discovery, public influence signals and long-term media intelligence.**
+### Understand creators beyond a single follower count
 
-ZuiMeiTV is an independent founder-owned creator/media/data project focused on the global Chinese-speaking creator economy. Its goal is not to manufacture a popularity ranking, but to organize public creator information into a more useful, transparent and evolving discovery layer.
+ZuiMeiTV is an independent creator-discovery and public-data media project focused on helping audiences, creators and potential partners understand public influence through clearer profiles, comparisons and reports.
 
-### Product direction
+The product direction is not to reduce a creator to one opaque score. It is to make public signals easier to explore and interpret while keeping the underlying editorial meaning understandable.
 
-- searchable creator profiles and public information;
-- source-aware influence and activity signals;
-- transparent methodology rather than pay-to-rank positioning;
-- creator claims, corrections and profile management;
-- recurring reports and long-term trend history;
-- future brand discovery, media kits, campaign intelligence and creator-business services.
+### Product experiences
 
-### Why users may care
+**Creator discovery** — Find creators, public figures and emerging accounts worth understanding.
 
-Creators want visibility. Audiences want discovery. Brands want context. A useful creator platform can serve all three by making public information easier to understand and compare without pretending that one score defines a person's value.
+**Public profiles** — Organize publicly available signals into more readable creator profiles.
 
-### Ownership
+**Influence insight** — Explore momentum, visibility and broader public influence through explainable summaries and reports.
 
-ZuiMeiTV is a **founder personal project**. It is not a KING AI product and must not be counted as part of the KING AI ecosystem or investor product portfolio.
+**Comparison** — Help users compare creators or categories without forcing every decision into a single number.
 
-### Public repository purpose
+**Reports** — Turn public information into useful editorial or business-facing views for trend discovery, creator research and partnership evaluation.
 
-This repository contains public brand information, methodology, product positioning, business direction, roadmap and machine-readable discovery material. Production source, private data systems, credentials and sensitive infrastructure are not published here.
+### Who it can serve
+
+- audiences discovering creators;
+- creators monitoring public visibility;
+- brands researching potential collaborations;
+- agencies and media teams exploring creator categories;
+- analysts and researchers following public creator trends.
+
+### Commercial opportunity
+
+Potential directions include premium reports, creator intelligence products, brand research, campaign discovery, sponsorship, media partnerships, creator services and clearly disclosed commercial collaborations.
+
+Any influence index or score should remain an aid to understanding, not a claim of objective human value. Methodology details that expose proprietary implementation remain private.
+
+No unverified user counts, revenue, brand customers, signed creator partnerships or market leadership are claimed here.
+
+### Independent ownership
+
+ZuiMeiTV / 最美TV is a founder personal project and is **not part of the KING AI main product ecosystem**.
 
 ---
 
-# 中文
+## 中文
 
-**ZuiMeiTV / 最美TV** 是由创始人个人持有和运营的独立创作者、媒体与数据项目，面向全球华语创作者经济。
+### 不只看粉丝数，更清楚地理解创作者的公开影响力
 
-它不是简单做一个“谁第一”的榜单，而是希望把创作者资料、公开数据、趋势、历史和可信来源组织成更有价值、更透明的长期发现平台。
+ZuiMeiTV / 最美TV 是独立的创作者发现与公开数据媒体项目，帮助用户、创作者和潜在合作方通过更清楚的资料、比较和报告理解公开影响力。
 
-### 产品方向
+产品方向不是用一个神秘分数给人下结论，而是把公开信号整理得更容易阅读、比较和理解。
 
-- 可搜索的创作者档案与公开资料；
-- 基于来源的影响力与活跃度信号；
-- 透明方法论，而不是付费买排名；
-- 创作者认领、纠错和资料管理；
-- 周期报告和长期趋势历史；
-- 未来扩展品牌发现、媒体包、营销智慧和创作者商业服务。
+### 产品体验
 
-### 项目归属
+**创作者发现** —— 发现值得关注的创作者、公众人物和新兴账号。  
+**公开资料** —— 把公开可获得的信息整理成更容易理解的创作者资料。  
+**影响力洞察** —— 通过公开趋势、可见度和报告帮助理解影响力变化。  
+**对比** —— 在不同创作者和类别之间提供更有意义的比较。  
+**报告** —— 把公开信息转化为趋势发现、创作者研究和商业合作评估材料。
 
-ZuiMeiTV 是**创始人个人项目**，不属于 KING AI 产品，也不得计入 KING AI 主生态或投资产品组合。
+### 商业方向
 
-本公开仓只发布对用户、合作伙伴、搜索引擎和 AI 有价值的公开资料，不公开生产源码、私有数据系统、密钥或敏感基础设施。
+可以探索高级报告、创作者情报、品牌研究、活动/合作发现、赞助、媒体合作和创作者服务。任何指数都只能帮助理解，不能被包装成人的“绝对价值”。专有评分和内部实现继续保留在私密系统中。
+
+### 独立个人项目
+
+ZuiMeiTV / 最美TV 属于创始人个人项目，**不属于 KING AI 主生态**。
