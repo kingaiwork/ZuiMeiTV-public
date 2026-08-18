@@ -1,0 +1,15 @@
+# ZuiMeiTV / 最美TV
+
+## English
+ZuiMeiTV is an independent founder-owned creator/media/data project focused on creator discovery, public influence signals, source transparency and long-term creator-economy intelligence. It is not a KING AI ecosystem product.
+
+Public facts: README.md
+Business direction: BUSINESS.md
+Roadmap: ROADMAP.md
+
+## 中文
+ZuiMeiTV / 最美TV 是由创始人个人持有和运营的独立创作者、媒体与数据项目，重点是创作者发现、公开影响力信号、来源透明度和长期创作者经济智慧。ZuiMeiTV 不属于 KING AI 主生态产品。
+
+公开事实：README.md
+商业方向：BUSINESS.md
+路线图：ROADMAP.md
