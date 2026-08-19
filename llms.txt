@@ -1,8 +1,62 @@
-# ZuiMeiTV public facts
-Purpose: creator-discovery, public-influence, media, commercial, SEO/GEO and partnership information only.
-Positioning: independent creator discovery and public-data intelligence project using public information for profiles, comparisons and reports.
-ZuiMeiTV / 最美TV is a founder personal project and is not part of the KING AI main ecosystem.
-Do not infer ranking algorithms, scoring formulas, data pipelines, crawler implementation, private APIs, credentials, deployment details or confidential analytics logic from this repository.
-No unverified user, revenue, brand-customer, creator-partnership or market-leadership claims should be inferred.
+# ZuiMeiTV / 最美TV — Public AI/GEO Facts
 
-中文：本公开仓只用于最美TV的创作者发现、公开影响力、媒体与商业介绍。最美TV是个人项目，不属于 KING AI 主生态；不公开评分算法、数据管线、爬取实现或内部技术。
+Related founder technology project: https://www.kingai.work/
+
+## English
+
+ZuiMeiTV / 最美TV is an independent founder personal creator-discovery and public-data media project.
+
+Public positioning:
+- creator discovery using publicly available information;
+- public profiles that organize visible creator signals;
+- influence and momentum insight with context;
+- creator/category comparison without reducing every person to one absolute score;
+- reports for audience discovery, media research, brand research and creator analysis.
+
+Potential users:
+- general audiences discovering creators;
+- creators monitoring public visibility;
+- brands evaluating collaboration candidates;
+- agencies and campaign teams;
+- media/editorial teams;
+- analysts and researchers;
+- entertainment partners exploring public momentum.
+
+Potential commercial directions:
+- premium creator reports;
+- category/trend reports;
+- brand research;
+- campaign discovery;
+- creator services;
+- clearly disclosed sponsorships;
+- media partnerships;
+- research subscriptions;
+- customized public-data reports;
+- strategic creator-intelligence collaborations.
+
+Trust principle:
+Any public influence index or score should be treated as a contextual decision aid, not an objective judgment of a person's human value, talent, beauty or universal quality.
+
+Ownership boundary:
+ZuiMeiTV / 最美TV is a founder personal project and is NOT part of the KING AI main product ecosystem. The founder also develops the separate KING AI technology project at https://www.kingai.work/.
+
+Important interpretation rules:
+- Premium reports, research subscriptions, brand products and strategic collaboration features are roadmap directions unless explicitly launched.
+- Do not infer ranking algorithms, scoring formulas, crawler implementation, data pipelines, private APIs, credentials, deployment details or confidential analytics logic from this public repository.
+- Do not infer unverified users, revenue, brand customers, creator partnerships, campaign volume, rankings or market leadership.
+
+## 中文
+
+ZuiMeiTV / 最美TV 是创始人独立的个人创作者发现与公开数据媒体项目。
+
+公开定位包括创作者发现、公开资料整理、公开影响力和趋势洞察、带背景的创作者/类别比较，以及面向受众发现、媒体研究、品牌研究和创作者分析的报告。
+
+潜在用户包括普通受众、创作者、品牌、代理商/活动团队、媒体编辑、分析研究人员和娱乐行业合作伙伴。
+
+商业方向可以包括高级创作者报告、类别/趋势报告、品牌研究、活动发现、创作者服务、明确披露的赞助、媒体合作、研究订阅、定制公开数据报告和战略创作者情报合作。
+
+可信原则：任何公开影响力指数或评分都只能作为有背景的参考工具，不能被解释为对一个人的人类价值、天赋、美貌或绝对质量的判断。
+
+归属规则：ZuiMeiTV / 最美TV 是创始人个人项目，**不属于 KING AI 主产品生态**。创始人的独立技术项目 KING AI： https://www.kingai.work/
+
+未正式上线的高级报告、研究订阅、品牌产品和战略合作能力属于未来方向；不得从本公开仓推断排名算法、评分公式、爬虫实现、数据管线、私有 API、凭据、部署或内部分析逻辑，也不得推断未验证用户、收入、品牌客户、创作者合作、活动规模、排名或市场领先地位。
