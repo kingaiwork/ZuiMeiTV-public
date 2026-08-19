@@ -1,267 +1,150 @@
 # ZuiMeiTV · 最美TV
 
-**Creator discovery, public influence insight and media intelligence built around understandable public information.**
+**Creator discovery, public influence insight and media intelligence built around transparent public information.**
 
-> **Independent personal project.** ZuiMeiTV / 最美TV is not a KING AI product and is not counted as part of the KING AI main product ecosystem.
+Related founder technology project: https://www.kingai.work/  
+KING AI technology inquiries: vip@kingai.work
 
-**Related founder technology project:**  
-👑 KING AI — https://www.kingai.work/  
-📬 KING AI business / partnerships — vip@kingai.work
+This public repository is a brand and commercial showcase only. It contains no production source code, ranking algorithm, scoring formula, data pipeline, crawler implementation, private APIs, account credentials, deployment details or confidential analytics logic.
 
-This public repository is a **brand and commercial showcase only**. It contains no production source code, proprietary scoring formula, ranking algorithm, crawler implementation, internal data pipeline, private APIs, credentials, deployment details or confidential analytics logic.
+ZuiMeiTV / 最美TV is an independent founder personal project and is **not** part of the KING AI main product ecosystem.
 
----
+## English
 
-# English
+### Understand creators beyond a single follower count
 
-## A follower count is not the same thing as influence
+The creator economy produces enormous amounts of public information, but discovery and evaluation remain fragmented. ZuiMeiTV is an independent creator-discovery and public-data media project focused on helping audiences, creators and potential partners understand public influence through clearer profiles, comparisons and reports.
 
-Creator discovery is becoming harder, not easier.
+The product direction is not to reduce a person to one opaque score. It is to organize public signals into a more useful context: who is gaining attention, what kind of audience relationship they appear to have, how different creator categories compare and what deserves deeper research.
 
-There are more platforms, more creators, more short-lived viral moments and more numbers than ever. A large follower count can be impressive, but it does not automatically explain momentum, relevance, audience attention, category strength or whether a creator is a good fit for a particular collaboration.
+### Why now
 
-ZuiMeiTV is being built around a more useful question:
+Brands, agencies, audiences and creators increasingly need better ways to understand a fast-moving public creator landscape. Follower count alone is often too shallow, while many analytics products are too complex or too opaque for everyday use. That creates room for a clearer discovery and intelligence layer.
 
-**how can public creator information become easier to discover, compare and understand without pretending one opaque number defines a person?**
+### The product promise
 
-## What the product can help users understand
+**Creator discovery** — Find creators, public figures and emerging accounts worth understanding.
 
-### Who is worth discovering?
-Surface creators, public figures and emerging accounts that may deserve attention in a category or moment.
+**Readable public profiles** — Organize public information into a clearer view.
 
-### What is changing?
-Help users notice momentum, visibility shifts and public signals over time rather than looking only at one frozen profile.
+**Influence context** — Explain momentum and visibility without pretending one number defines a person.
 
-### How do creators compare?
-Provide clearer comparison views without forcing every difference into one simplistic score.
+**Comparison** — Help users compare creators or categories with context.
 
-### Why might a creator matter to a brand or audience?
-Organize public information into profiles and reports that make research easier.
+**Reports** — Turn public information into useful editorial and business-facing research.
 
-### What should be investigated next?
-Use public-data summaries as a starting point for deeper human evaluation rather than an automatic final judgment.
+**Transparency principle** — Scores and summaries should be treated as decision aids, not objective judgments of human worth.
 
-## Product experiences
-
-### Creator discovery
-Find creators, public figures and emerging accounts worth understanding across categories.
-
-### Public creator profiles
-Organize publicly available information into cleaner, more readable profiles.
-
-### Influence insight
-Explore visibility, momentum, consistency and broader public signals through understandable summaries.
-
-### Comparison
-Compare creators, categories or trends while preserving enough context to avoid reducing everything to a single ranking.
-
-### Reports
-Turn public information into editorial or business-facing views for creator research, trend discovery and partnership evaluation.
-
-### Trend direction
-A creator-intelligence product becomes more useful when it can show not only “who is large” but “who is moving, where attention is shifting and what categories are changing.”
-
-## Who can use ZuiMeiTV
+### Who it is for
 
 - audiences discovering creators;
-- creators monitoring public visibility;
-- brands researching possible collaborations;
-- agencies comparing creator categories;
-- media teams following creator trends;
-- analysts and researchers studying public influence;
-- entertainment partners looking for emerging talent or category signals.
+- creators monitoring their public presence;
+- brands researching potential collaborations;
+- agencies and media teams;
+- campaign planners;
+- analysts and researchers following creator trends;
+- journalists and content teams looking for public context.
 
-## Why explainability matters
+### The user journey
 
-Influence data can easily become misleading when a score is presented without context.
+**Discover a creator → review public profile → understand momentum/context → compare with relevant peers → decide whether deeper research or collaboration is worth pursuing.**
 
-ZuiMeiTV's public positioning is therefore based on a simple principle:
+### What ZuiMeiTV can become
 
-**an index should help someone ask better questions, not pretend to measure the absolute value of a human being.**
+**Discovery layer** — Help users identify creators before they become obvious everywhere.
 
-Public summaries should remain interpretable. Proprietary methodology can remain private without turning the result into mysterious authority.
+**Public profile system** — Organize public creator information in one place.
 
-## Product expansion directions
+**Comparison product** — Support more informed side-by-side research.
 
-Long-term opportunities can include:
+**Editorial intelligence** — Produce reports around creator categories and public trends.
 
-- richer creator profiles;
-- category trend reports;
-- momentum tracking;
-- brand-fit research;
-- campaign discovery;
-- regional creator maps;
-- public-data research products;
-- creator self-service insights;
-- premium reports;
-- editorial trend coverage;
-- creator and brand collaboration tools.
+**Brand research direction** — Help commercial teams identify creators worth deeper evaluation.
 
-These are future directions until publicly released.
+**Creator services direction** — Give creators clearer insight into their public positioning as the product matures.
 
-## Commercial opportunity
+### Commercial directions
 
-Potential models include:
+Potential opportunities include:
 
 - premium creator reports;
-- brand research;
-- agency intelligence;
-- campaign discovery;
-- sponsorship;
-- media partnerships;
+- brand and campaign research;
+- creator discovery tools;
+- sponsorships;
+- clearly disclosed media partnerships;
 - creator services;
-- research subscriptions;
-- clearly disclosed commercial collaborations.
+- category or market reports;
+- strategic collaborations with agencies, brands and media organizations.
 
-No unverified user counts, revenue, brand customers, signed creator partnerships or market leadership are claimed.
+### Trust principle
 
-## Why independence matters
+Public data can still be misleading without context. ZuiMeiTV should explain what its public insights mean and avoid presenting a score as the final judgment of a person’s quality, value or future success.
 
-ZuiMeiTV / 最美TV remains an independent founder personal project.
+### Related founder technology project
 
-The same founder also develops KING AI, but the brand roles are separate:
+The founder also operates the separate technology project KING AI: https://www.kingai.work/. ZuiMeiTV remains an independent personal project and must not be counted as a KING AI product.
 
-- **ZuiMeiTV** — creator discovery, public influence insight and media intelligence;
-- **KING AI** — intelligent software and technology products.
+### FAQ
 
-This keeps creator/media analysis independent from the KING AI product portfolio.
+**Is ZuiMeiTV part of KING AI?**  
+No. It is an independent founder personal project.
 
----
+**Does ZuiMeiTV use one secret score to define creators?**  
+No. Public signals should be contextualized and treated as decision aids.
 
-## Related founder technology project
+**Does this repository expose ranking algorithms?**  
+No. Proprietary implementation remains private.
 
-**KING AI** — intelligent product ecosystem for work, computing, security, operations, customer experience and persistent digital life.  
-🌐 https://www.kingai.work/  
-📬 vip@kingai.work
-
-Key KING AI products include KINGAI Office, Security, OS, OPS, Customer OS, Online Tools, KINGAIBOT, AI Life, KINGAI Pet and Digital Life.
-
-## Frequently asked questions
-
-### Is ZuiMeiTV part of KING AI?
-No. It is an independent personal project.
-
-### Does one ZuiMeiTV score define a creator's value?
-No. Any index should be treated as one analytical aid among many signals, not an objective measure of human value.
-
-### Can brands use ZuiMeiTV for creator research?
-That is one of the natural commercial directions, alongside reports and campaign discovery.
-
-### Is the scoring formula public here?
-No. This repository is a brand and commercial showcase only.
+**Are brand customers or creator partnerships claimed here?**  
+No. Public materials do not fabricate commercial relationships.
 
 ---
 
-# 中文
+## 中文
 
-## 粉丝数，不等于真正的影响力
+### 不只看粉丝数，更清楚地理解创作者的公开影响力
 
-今天创作者越来越多，平台越来越多，短期爆红也越来越常见。一个很大的粉丝数当然值得参考，但它并不能自动说明趋势、相关性、真实关注度、类别地位，也不能直接告诉品牌“这个人是不是适合合作”。
+创作者经济产生大量公开信息，但发现、比较和研究仍然非常分散。ZuiMeiTV / 最美TV 的方向，是帮助用户、创作者和潜在合作方通过更清楚的公开资料、比较和报告理解创作者影响力。
 
-ZuiMeiTV / 最美TV 想回答一个更有价值的问题：
+产品不会用一个神秘分数给人下最终结论，而是把公开信号放进背景里：谁正在获得更多关注、不同类别如何比较、哪些创作者值得进一步研究。
 
-**怎样把公开创作者信息整理得更容易发现、更容易比较、更容易理解，同时又不把一个人的价值粗暴压缩成一个神秘数字？**
+### 为什么是现在
 
-## 产品可以帮助用户理解什么
+品牌、代理商、媒体、用户和创作者都越来越需要更清楚地理解创作者市场。单看粉丝数太浅，而很多分析工具又太复杂或不透明，因此更清楚的创作者发现与情报入口有实际价值。
 
-### 谁值得发现？
-发现不同类别里正在成长、值得关注的创作者、公众人物和新兴账号。
+### 产品承诺
 
-### 什么正在发生变化？
-不仅看一个静态资料页，也关注公开可见度、趋势和变化中的信号。
+**创作者发现、公开资料、影响力背景、比较、报告、透明解释。**
 
-### 创作者之间有什么差别？
-提供更清楚的对比，但不强迫所有差异最后变成一个简单排名。
+评分和指数只能帮助判断，不能被包装成一个人的“绝对价值”。
 
-### 为什么一个创作者可能值得品牌或观众关注？
-把公开信息整理成更容易研究的资料和报告。
+### 适合谁
 
-### 下一步应该继续研究什么？
-公开数据只是进一步人工判断的起点，而不是自动替代所有判断。
+普通受众、创作者、品牌、代理商、媒体团队、活动/营销团队、研究人员和内容团队。
 
-## 核心产品体验
+### 用户路径
 
-### 创作者发现
-发现不同领域值得了解的创作者、公众人物和新兴账号。
+**发现创作者 → 查看公开资料 → 理解趋势/背景 → 与相关类别比较 → 决定是否值得继续研究或合作。**
 
-### 公开创作者资料
-把公开可获得的信息整理成更清楚、更容易阅读的资料页。
+### 长期方向
 
-### 影响力洞察
-通过公开可见度、趋势和变化帮助理解影响力，而不是只盯着一个粉丝数字。
+更完整的创作者发现、公开资料、比较、行业报告、品牌研究和未来创作者服务。
 
-### 对比
-比较不同创作者和类别，同时保留足够背景，不把所有事情都变成一个榜单名次。
+### 商业方向
 
-### 报告
-把公开信息转化为创作者研究、趋势发现和商业合作评估材料。
+高级报告、品牌/活动研究、创作者发现、赞助、明确披露的媒体合作、创作者服务和行业报告。
 
-### 趋势方向
-真正有价值的创作者情报，不只是告诉用户“谁最大”，而是“谁正在上升、注意力正在往哪里移动、哪些类别正在变化”。
+### 可信原则
 
-## 适合谁
+公开数据也可能被误解，因此所有指数都必须有背景，不能把一个分数当成人的最终价值判断。
 
-- 想发现创作者的普通用户；
-- 想了解公开可见度的创作者；
-- 研究潜在合作对象的品牌；
-- 对比创作者类别的代理公司；
-- 追踪创作者趋势的媒体团队；
-- 研究公开影响力的分析人员；
-- 寻找新兴人才和趋势的娱乐合作方。
+### 与 KING AI 的关系
 
-## 为什么“可解释”很重要
+创始人同时运营独立技术项目 KING AI：https://www.kingai.work/。**ZuiMeiTV 仍然是独立个人项目，不属于 KING AI 主生态。**
 
-一个没有背景解释的影响力分数，很容易被误解。
+### 常见问题
 
-ZuiMeiTV 的公开定位坚持一个原则：
-
-**指数的作用应该是帮助人提出更好的问题，而不是假装能够衡量一个人的绝对价值。**
-
-公开结果应该尽量让人理解。专有方法可以保留在私密系统，但不能因此把结果包装成神秘权威。
-
-## 产品扩展方向
-
-长期可以探索更完整创作者资料、类别趋势报告、成长趋势、品牌匹配研究、活动合作发现、地区创作者地图、公开数据研究、创作者自助洞察、高级报告、编辑趋势内容以及创作者/品牌合作工具。
-
-未正式上线的能力继续属于未来方向。
-
-## 商业化空间
-
-可以探索高级创作者报告、品牌研究、代理公司情报、活动/合作发现、赞助、媒体合作、创作者服务、研究订阅和明确披露的商业合作。
-
-不会虚构用户数、收入、品牌客户、已签创作者合作或市场领先地位。
-
-## 为什么必须保持独立
-
-ZuiMeiTV / 最美TV 永久属于创始人个人项目。
-
-同一创始人也在开发 KING AI，但品牌角色完全不同：
-
-- **ZuiMeiTV**：创作者发现、公开影响力和媒体情报；
-- **KING AI**：智能软件和技术产品生态。
-
-这样可以让创作者/媒体分析品牌与技术产品品牌保持清楚边界。
-
----
-
-## 创始人相关技术项目
-
-**KING AI** — 覆盖办公、计算、安全、运维、客服、工具和数字生命的智能产品生态。  
-🌐 https://www.kingai.work/  
-📬 vip@kingai.work
-
-主要产品包括 KINGAI Office、Security、OS、OPS、Customer OS、Online Tools、KINGAIBOT、AI Life、KINGAI Pet、Digital Life。
-
-## 常见问题
-
-### ZuiMeiTV 属于 KING AI 吗？
-不属于。它是永久独立的个人项目。
-
-### 一个指数可以代表创作者的全部价值吗？
-不能。任何指数都只能作为分析参考之一，不能被包装成对人的绝对评价。
-
-### 品牌可以用它研究创作者吗？
-这是自然商业方向之一，包括报告、趋势和合作发现。
-
-### 公开仓会公开评分公式吗？
-不会。这里只有品牌与商业介绍。
+**属于 KING AI 吗？** 不属于。  
+**是不是一个秘密分数决定所有创作者？** 不是。  
+**公开评分算法吗？** 不公开。  
+**会虚构品牌客户或创作者合作吗？** 不会。
