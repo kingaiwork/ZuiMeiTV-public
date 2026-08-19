@@ -8,6 +8,6 @@ Official ZuiMeiTV:
 
 https://zuimeitv.com/
 
-The private `kingaiwork/zuimeitv` repository remains the project source authority. Historical public material remains available through this repository's Git history.
+Production implementation remains private. Historical public material remains available through this repository's Git history.
 
 ZuiMeiTV remains an independent founder personal project and is not a KING AI product.
